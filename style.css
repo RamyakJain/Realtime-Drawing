@@ -1,0 +1,28 @@
+.heading{
+    font-size: 25px !important;
+    width: 100%;
+    margin: 0px;
+    color: rgb(0, 255, 0);
+    box-shadow: 4px 4px 1px rgb(0, 255, 0);
+}
+.note{
+    font-size: 15px;
+    color: rgb(0, 255, 0);
+}
+.copy_right_footer{
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    background-color: grey;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+}
+canvas{
+    border: 5px solid rgb(51, 123, 218);
+    border-radius: 20px;
+    box-shadow: 4px 4px 1px rgb(0, 255, 0);
+}
+body{
+    font-family: 'Langar', cursive;
+}
